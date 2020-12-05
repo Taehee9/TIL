@@ -13,5 +13,9 @@
 * reference를 명시하고 원작자가 참고를 허용하는 자료만 사용한다.
 
 ## 분류
+[201203 - Git 커밋 메시지](https://github.com/Taehee9/TIL/blob/main/Git/201203_git_commit.md)  
+[201203 - 프로세스와 쓰레드](https://github.com/Taehee9/TIL/blob/main/OS/201203_process_and_thread.md)  
+[201203 - 메모리 영역](https://github.com/Taehee9/TIL/blob/main/OS/201203_memory_segment.md)  
+[201204 - Java의 Stack 과 Heap](https://github.com/Taehee9/TIL/blob/main/Java/201204_java_memory_stack_heap.md)  
+[201205 - SOLID 원칙](https://github.com/Taehee9/TIL/blob/main/DesignPattern/201205_solid_principles.md)  
 
-#### JAVA
