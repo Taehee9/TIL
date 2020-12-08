@@ -18,4 +18,7 @@
 [201203 - 메모리 영역](https://github.com/Taehee9/TIL/blob/main/OS/201203_memory_segment.md)  
 [201204 - Java의 Stack 과 Heap](https://github.com/Taehee9/TIL/blob/main/Java/201204_java_memory_stack_heap.md)  
 [201205 - SOLID 원칙](https://github.com/Taehee9/TIL/blob/main/DesignPattern/201205_solid_principles.md)  
+[201206 - JVM](https://github.com/Taehee9/TIL/blob/main/Java/201206_jvm.md)  
+[201207 - Garbage Collection](https://github.com/Taehee9/TIL/blob/main/Java/201207_gc.md)  
+[201208 - Hotspot JVM](https://github.com/Taehee9/TIL/blob/main/Java/201208_hotspot_jvm.md)  
 
