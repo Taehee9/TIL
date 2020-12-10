@@ -21,4 +21,6 @@
 [201206 - JVM](https://github.com/Taehee9/TIL/blob/main/Java/201206_jvm.md)  
 [201207 - Garbage Collection](https://github.com/Taehee9/TIL/blob/main/Java/201207_gc.md)  
 [201208 - Hotspot JVM](https://github.com/Taehee9/TIL/blob/main/Java/201208_hotspot_jvm.md)  
+[201209 - 32bit와 64bit](https://github.com/Taehee9/TIL/blob/main/OS/201209_32bit_64bit.md)  
+[201210 - DB 정규화](https://github.com/Taehee9/TIL/blob/main/DB/201210_normalization.md)  
 
