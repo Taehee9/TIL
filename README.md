@@ -23,4 +23,6 @@
 [201208 - Hotspot JVM](https://github.com/Taehee9/TIL/blob/main/Java/201208_hotspot_jvm.md)  
 [201209 - 32bit와 64bit](https://github.com/Taehee9/TIL/blob/main/OS/201209_32bit_64bit.md)  
 [201210 - DB 정규화](https://github.com/Taehee9/TIL/blob/main/DB/201210_normalization.md)  
+[201211 - 멀티 프로세스와 멀티 쓰레드](https://github.com/Taehee9/TIL/blob/main/OS/201211_multi_process_thread.md)  
+[201212 - Context Switching](https://github.com/Taehee9/TIL/blob/main/OS/201212_context_switching.md)  
 
